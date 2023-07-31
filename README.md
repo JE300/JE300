@@ -3,12 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JE300)](https://github.com/JE300/github-readme-stats)
 
-<a href="https://github.com/JE300/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JE300&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/JE300/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JE300)](https://github.com/JE300/github-readme-stats" />
-</a>
+
 
 <!--
 **JE300/JE300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
