@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JE300)](https://github.com/JE300/github-readme-stats)
 
-
+[![](https://visitcount.itsvg.in/api?id=JE300&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 
 <!--
