@@ -3,6 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JE300)](https://github.com/JE300/github-readme-stats)
 
+![Joan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JE300&count_private=true)
 
 
 <!--
