@@ -2,6 +2,9 @@
 ![Joan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JE300&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JE300)](https://github.com/JE300/github-readme-stats)
+
+[![Joan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?JE300=ffflabs)](https://github.com/JE300/github-readme-stats)
+
 <!--
 **JE300/JE300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
